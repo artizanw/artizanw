@@ -1,0 +1,3 @@
+- Student
+- 18
+- I love Rust
