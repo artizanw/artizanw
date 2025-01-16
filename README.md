@@ -1,3 +1,3 @@
 - Computer engineering student
 - 18
-- Rust my beloved 🦀
+🦀 I love Rust 🦀
