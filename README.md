@@ -1,3 +1,3 @@
-Computer engineering student
+Computer engineering student @ UWaterloo
 
 🦀 I love Rust 🦀
